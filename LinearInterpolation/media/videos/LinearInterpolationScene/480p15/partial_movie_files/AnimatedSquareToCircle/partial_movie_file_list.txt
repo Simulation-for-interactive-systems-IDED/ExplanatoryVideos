@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/480p15/partial_movie_files/AnimatedSquareToCircle/3163782288_374588165_1793580042.mp4'
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/480p15/partial_movie_files/AnimatedSquareToCircle/2201830969_380856120_1793580042.mp4'
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/480p15/partial_movie_files/AnimatedSquareToCircle/2201830969_3990612625_1793580042.mp4'
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/480p15/partial_movie_files/AnimatedSquareToCircle/2201830969_2122130415_1904605041.mp4'

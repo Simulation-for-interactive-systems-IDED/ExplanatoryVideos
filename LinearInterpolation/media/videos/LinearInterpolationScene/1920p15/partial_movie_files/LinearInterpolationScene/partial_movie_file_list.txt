@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/1920p15/partial_movie_files/LinearInterpolationScene/672224386_3949469219_2313285591.mp4'
+file 'file:C:/Users/jorovipe/Documents/Gamebite10/SimulationForInteractiveSystems/ExplanatoryVideos/LinearInterpolation/media/videos/LinearInterpolationScene/1920p15/partial_movie_files/LinearInterpolationScene/2039391692_378179449_3574374313.mp4'
